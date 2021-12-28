@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "skipLibCheck": true,
+        "allowJs": true,
+        "checkJs": false,
+        "esModuleInterop": true,
+        "moduleResolution": "Node",
+        "target": "ES6",
+        "outDir": "dist",
+    }
+}
